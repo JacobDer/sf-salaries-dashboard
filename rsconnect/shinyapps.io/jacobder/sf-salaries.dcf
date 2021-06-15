@@ -1,0 +1,11 @@
+name: sf-salaries
+title:
+username:
+account: jacobder
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4276848
+bundleId: 4720540
+url: https://jacobder.shinyapps.io/sf-salaries/
+when: 1623792985.27136
+lastSyncTime: 1623792985.27138
